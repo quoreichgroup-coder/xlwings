@@ -1,0 +1,9 @@
+KPI_Name,Formula_Type,Column_Name,Target_Sheet,Target_Cell,Filter_Column,Filter_Value,Label
+Total Withdrawn Qty,SUM,Quantity,HOME,E8,,,Withdrawn Qty
+Unique Materials,COUNT_UNIQUE,Material,HOME,E9,,,Materials
+Withdrawal Count,COUNT,Material,HOME,E10,,,Withdrawals
+Goods Issue Count,COUNT,Movement Type,HOME,E11,Movement Type,261,GI Count
+Total GI Qty,SUM,Quantity,HOME,E12,Movement Type,261,GI Qty
+Reversal Count,COUNT,Movement Type,HOME,E13,Movement Type,262,Reversals
+Max Withdrawal Qty,MAX,Quantity,HOME,E14,,,Max Qty
+Avg Withdrawal Qty,AVERAGE,Quantity,HOME,E15,,,Avg Qty

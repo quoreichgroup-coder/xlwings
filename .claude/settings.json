@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "sap-analyst": {
+      "command": "C:\\Users\\Abdouramane\\Documents\\SAP Studio\\Framework\\.venv\\Scripts\\python.exe",
+      "args": [
+        "sap_analyst_framework/mcp_server/server.py"
+      ]
+    }
+  }
+}

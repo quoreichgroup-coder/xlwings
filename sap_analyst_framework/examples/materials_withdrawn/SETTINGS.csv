@@ -1,0 +1,16 @@
+Key,Value
+ProjectName,SAP Plant Analytics
+ReportName,Materials Withdrawn
+Plant,1000
+TCode,MB51
+Variant,/MATS_WITHDRAWN
+Layout,/STD_LAYOUT
+DateMode,PREVIOUS_WEEK
+DateFrom,
+DateTo,
+ExportFileName,MatWithdrawn_Export
+UI_MODE,MANUAL
+LOADER_TYPE,BAR
+UsePython,YES
+PythonPath,
+SAPConnectionName,

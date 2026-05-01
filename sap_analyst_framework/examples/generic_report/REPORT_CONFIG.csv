@@ -1,0 +1,7 @@
+KPI_Name,Formula_Type,Column_Name,Target_Sheet,Target_Cell,Filter_Column,Filter_Value,Label
+Total Row Count,COUNT,Column A,HOME,E8,,,Rows
+Unique Values Col A,COUNT_UNIQUE,Column A,HOME,E9,,,Unique A
+Sum of Value Column,SUM,Value,HOME,E10,,,Total Value
+Average Value,AVERAGE,Value,HOME,E11,,,Avg Value
+Max Value,MAX,Value,HOME,E12,,,Max Value
+Min Value,MIN,Value,HOME,E13,,,Min Value

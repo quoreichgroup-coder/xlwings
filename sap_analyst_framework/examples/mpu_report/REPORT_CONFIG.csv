@@ -1,0 +1,9 @@
+KPI_Name,Formula_Type,Column_Name,Target_Sheet,Target_Cell,Filter_Column,Filter_Value,Label
+Total Usage Qty,SUM,Quantity,HOME,E8,,,Total Usage
+Unique Materials Used,COUNT_UNIQUE,Material,HOME,E9,,,Materials
+Movement Count,COUNT,Movement Type,HOME,E10,,,Movements
+Avg Qty per Material,AVERAGE,Quantity,HOME,E11,,,Avg Qty
+Max Single Withdrawal,MAX,Quantity,HOME,E12,,,Max Qty
+Min Single Withdrawal,MIN,Quantity,HOME,E13,,,Min Qty
+Usage Qty Plant 1000,SUM,Quantity,HOME,E14,Plant,1000,P1000 Qty
+Usage Qty Plant 2000,SUM,Quantity,HOME,E15,Plant,2000,P2000 Qty

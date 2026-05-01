@@ -1,0 +1,16 @@
+Key,Value
+ProjectName,SAP Plant Analytics
+ReportName,MPU Report
+Plant,1000
+TCode,MCBA
+Variant,/MPU_WEEKLY
+Layout,/MPU_LAYOUT
+DateMode,PREVIOUS_WEEK
+DateFrom,
+DateTo,
+ExportFileName,MPU_Export
+UI_MODE,MANUAL
+LOADER_TYPE,BAR
+UsePython,NO
+PythonPath,
+SAPConnectionName,

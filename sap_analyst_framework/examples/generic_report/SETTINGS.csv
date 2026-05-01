@@ -1,0 +1,16 @@
+Key,Value
+ProjectName,My SAP Project
+ReportName,Generic SAP Report
+Plant,1000
+TCode,MB52
+Variant,/MY_VARIANT
+Layout,/MY_LAYOUT
+DateMode,CUSTOM
+DateFrom,01.01.2025
+DateTo,31.01.2025
+ExportFileName,GenericReport_Export
+UI_MODE,MANUAL
+LOADER_TYPE,BAR
+UsePython,NO
+PythonPath,
+SAPConnectionName,
